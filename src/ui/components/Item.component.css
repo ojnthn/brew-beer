@@ -1,0 +1,32 @@
+.item--container {
+    width: 200px;
+    min-height: 250px;
+    border: 1px solid #ededed;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #f1f1f1;
+    transform: scale(0.9);
+    transition: all ease 0.2s;
+    display: block;
+    margin: 5px;
+}
+
+.item--container:hover {
+    transform: scale(1);
+    cursor: pointer;
+}
+
+.item--image > img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+
+.item--description {
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+}
+
+.item--nome {
+    width: 100%;
+    text-align: center;
+}
