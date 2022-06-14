@@ -30,3 +30,11 @@
     width: 100%;
     text-align: center;
 }
+
+.modal--image {
+    float: left;
+}
+
+.modal--content {
+    text-align: justify;
+}
