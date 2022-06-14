@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://ojnthn.github.io/brew-beer/static/css/main.86f2d362.css",
-    "main.js": "https://ojnthn.github.io/brew-beer/static/js/main.2bbe215b.js",
+    "main.css": "https://ojnthn.github.io/brew-beer/static/css/main.5aae9c34.css",
+    "main.js": "https://ojnthn.github.io/brew-beer/static/js/main.db1fbdfe.js",
     "static/media/background.jpg": "https://ojnthn.github.io/brew-beer/static/media/background.f8a0fccf99cff2dace4f.jpg",
     "static/media/beer.png": "https://ojnthn.github.io/brew-beer/static/media/beer.61a36875f03e777a752d.png",
     "index.html": "https://ojnthn.github.io/brew-beer/index.html",
-    "main.86f2d362.css.map": "https://ojnthn.github.io/brew-beer/static/css/main.86f2d362.css.map",
-    "main.2bbe215b.js.map": "https://ojnthn.github.io/brew-beer/static/js/main.2bbe215b.js.map"
+    "main.5aae9c34.css.map": "https://ojnthn.github.io/brew-beer/static/css/main.5aae9c34.css.map",
+    "main.db1fbdfe.js.map": "https://ojnthn.github.io/brew-beer/static/js/main.db1fbdfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.86f2d362.css",
-    "static/js/main.2bbe215b.js"
+    "static/css/main.5aae9c34.css",
+    "static/js/main.db1fbdfe.js"
   ]
 }
